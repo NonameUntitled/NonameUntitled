@@ -1,4 +1,4 @@
-## Hey, This is Baykalov Vladimir
+## Hey, This is Baikalov Vladimir
 [![Ask Me Anything !](https://img.shields.io/badge/-Mail-lightgrey)](mailto:Noname-Untitled@yandex.ru)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue)](https://www.linkedin.com/in/noname-untitled/)
 [![Github Badge](https://img.shields.io/badge/-NonameUntitled-grey?style=flat&logo=github&logoColor=white&link=https://github.com/NonameUntitled/)](https://www.github.com/NonameUntitled/) 
